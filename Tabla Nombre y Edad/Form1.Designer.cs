@@ -85,7 +85,7 @@
             btnguardar.BackColor = Color.FromArgb(192, 255, 255);
             btnguardar.Font = new Font("SimSun", 10F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
             btnguardar.ForeColor = SystemColors.HotTrack;
-            btnguardar.Location = new Point(632, 24);
+            btnguardar.Location = new Point(673, 605);
             btnguardar.Name = "btnguardar";
             btnguardar.Size = new Size(127, 86);
             btnguardar.TabIndex = 4;
@@ -123,7 +123,7 @@
             label3.BackColor = Color.Black;
             label3.Font = new Font("SimSun", 14F, FontStyle.Bold, GraphicsUnit.Point);
             label3.ForeColor = SystemColors.ButtonHighlight;
-            label3.Location = new Point(173, 556);
+            label3.Location = new Point(177, 734);
             label3.Name = "label3";
             label3.Size = new Size(432, 28);
             label3.TabIndex = 7;
