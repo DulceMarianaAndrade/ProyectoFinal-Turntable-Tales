@@ -85,7 +85,7 @@
             btnguardar.BackColor = Color.FromArgb(192, 255, 255);
             btnguardar.Font = new Font("SimSun", 10F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
             btnguardar.ForeColor = SystemColors.HotTrack;
-            btnguardar.Location = new Point(673, 605);
+            btnguardar.Location = new Point(455, 546);
             btnguardar.Name = "btnguardar";
             btnguardar.Size = new Size(127, 86);
             btnguardar.TabIndex = 4;
